@@ -130,9 +130,9 @@ To run the project in node.js enviroment use , execute the following command:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/hetrox8)
-- Twitter: [@twitterhandle](https://twitter.com/suleiman gacheru)
-- LinkedIn: [LinkedIn](
+- GitHub: [@hetrox8](https://github.com/hetrox8)
+- Twitter: [@Suleiman gacheru](https://twitter.com/suleiman gacheru)
+- LinkedIn: [@suleiman gacheru](
 linkedin.com/in/suleiman-gacheru-6a8aa5263)
 
 
@@ -178,17 +178,6 @@ I would like to thank the Microverse Community for the support of this project c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[How to Configure linter on my html&css project]**
-
-  - [Reach out me at my Github @hetrox8 or via Slack @suleimanGacheru]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
       
