@@ -126,9 +126,9 @@ To run tests, run the following command:
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/hetrox8)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/suleimangacheru)
+- GitHub: [@hetrox8](https://github.com/hetrox8)
+- Twitter: [@Suleiman gacheru](https://twitter.com/twitterhandle)
+- LinkedIn: [@suleiman gacheru](https://linkedin.com/in/suleimangacheru)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
