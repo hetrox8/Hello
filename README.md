@@ -1,10 +1,15 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+
+  <br/>
+  <h3><b>Hello Microverse Project</b></h3>
+=======
+  
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
+
 
 </div>
 
@@ -16,29 +21,45 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+
+
   - [🚀 Live Demo](#live-demo)
+
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
+
+  - [Run tests](#run-tests)
+=======
+
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
+
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+
+=======
 - [❓ FAQ (OPTIONAL)](#faq)
+
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse Project] <a name="about-project"></a>
 
+
+
+
+**[Hello Microverse Project]** is a Project  to diay a greeting to the microverse community. The main languages used to achieve this are html & css.
+=======
 This Project is to dislay a greeting to the microverse community. The main languages used to achieve this are html & css.
 
 **[Hello Microverse Project]** is a...
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,12 +73,20 @@ The Main tech Stack used for this project are as follows:
 <details>
   <summary>Client</summary>
 
+   <ul>
+=======
+
 <details>
   <summary>Server</summary>
   <ul>
+
     <li><a href="https://www.w3schools.com/html/">html</a></li>
     <li><a href="https://www.w3schools.com/css/">css</a></li>
   </ul>
+
+</details>
+ 
+=======
 
 <!-- Features -->
 
@@ -75,7 +104,7 @@ The Main tech Stack used for this project are as follows:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+=======
 
 To get a local copy up and running, follow these steps.
 
@@ -136,7 +165,8 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-.
+
+=======
 
 - [ ] **[Dynamic]**
 - [ ] **[Well Structured]**
@@ -170,11 +200,11 @@ I would like to thank the microverse community for their support towards complet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](MIT.md) licensed.
+=======
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
